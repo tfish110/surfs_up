@@ -14,8 +14,8 @@ Throughout the module, we learned to use SQLAlchemy and Pandas tools to examine 
 
 Two queries were constructed in order to filter the database's temperature data, restricting the results to June and December datapoints, respectively. The relevant data were extracted from the database and converted into a DataFrame to derive descriptive statistics for the temperatures recorded in the months of interest.
 
-![June Temperatures](https://github.com/tfish110/surfs_up/blob/main/resources/june_temps_stats.png)
-![December Temperatures](https://github.com/tfish110/surfs_up/blob/main/resources/december_temps_stats.png)
+![June Temperatures](https://github.com/tfish110/surfs_up/blob/main/Resources/june_temps_stats.png)
+![December Temperatures](https://github.com/tfish110/surfs_up/blob/main/Resources/december_temps_stats.png)
 
 These tables contain the descriptive statistics for the two relevant months' observed temperature records. Based on these temperature means and standard deviations, there seems to be  minimal differences between the temperatures in June vs. December.
 
